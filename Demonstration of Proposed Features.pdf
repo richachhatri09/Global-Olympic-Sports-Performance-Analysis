@@ -1,0 +1,624 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 5 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 6 0
+2 0 obj
+<<
+  /Author (\(anonymous\))
+  /CreationDate (D:20261028140604+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20261028140604+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (\(anonymous\))
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 7 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 8 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 775.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 17 Tf 21 TL 99.39911 0 Td (Demonstration of Proposed Features) Tj T* -99.39911 0 Td ET
+Q
+Q
+q
+1 0 0 1 70.86614 675.2047 cm
+q
+.913725 .933333 .960784 rg
+n 0 88 113.3858 -88 re f*
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 74 Tm (Date) Tj T* ET
+BT 1 0 0 1 119.3858 74 Tm (27 October 2026) Tj T* ET
+BT 1 0 0 1 6 52 Tm (Team ID) Tj T* ET
+BT 1 0 0 1 119.3858 52 Tm (Individual) Tj T* ET
+BT 1 0 0 1 6 30 Tm (Project Name) Tj T* ET
+BT 1 0 0 1 119.3858 30 Tm (Global Olympic Sports Performance Analysis) Tj T* ET
+BT 1 0 0 1 6 8 Tm (Prepared by) Tj T* ET
+BT 1 0 0 1 119.3858 8 Tm (Richa) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 88 m 453.5433 88 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 88 l S
+n 453.5433 0 m 453.5433 88 l S
+n 0 66 m 453.5433 66 l S
+n 0 44 m 453.5433 44 l S
+n 0 22 m 453.5433 22 l S
+n 113.3858 0 m 113.3858 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 665.2047 cm
+Q
+q
+1 0 0 1 48.51969 642.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Demonstration of Proposed Features) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 612.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Feature status below reflects the documented project scope. Final screenshots, published links, and formal test) Tj T* (evidence should be added after final verification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 607.2047 cm
+Q
+q
+1 0 0 1 48.51969 397.2047 cm
+q
+.862745 .901961 .945098 rg
+n 0 210 498.2362 -19 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (S.No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.03937 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Feature Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Demonstrated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 419.1969 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Remarks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.03937 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Country medal) Tj T* (ranking) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Compare countries) Tj T* (by total medals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 176 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Worksheet created) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Pending final) Tj T* (capture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 419.1969 176 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sheet 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 146 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.03937 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Medal type) Tj T* (comparison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Compare gold,) Tj T* (silver, and bronze) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 146 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Worksheet created) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Pending final) Tj T* (capture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 419.1969 146 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sheet 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.03937 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Summer/Winter) Tj T* (comparison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Compare medal) Tj T* (totals by season) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Worksheet created) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Pending final) Tj T* (capture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 419.1969 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sheet 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.03937 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Historical medal) Tj T* (trend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Explore recorded) Tj T* (totals by year) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Worksheet created) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Pending final) Tj T* (capture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 419.1969 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sheet 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.03937 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Athlete participation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Compare athlete) Tj T* (counts over time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Worksheet created) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Pending final) Tj T* (capture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 419.1969 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sheet 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.03937 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Sport, region,) Tj T* (investment and) Tj T* (host views) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Explore Sheets 6\2269) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Worksheets) Tj T* (created; validate) Tj T* (metrics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Pending final) Tj T* (capture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 419.1969 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Validate metric) Tj T* (definitions and) Tj T* (values) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.4 w
+n 0 210 m 498.2362 210 l S
+n 0 0 m 498.2362 0 l S
+n 0 0 m 0 210 l S
+n 498.2362 0 m 498.2362 210 l S
+n 0 191 m 498.2362 191 l S
+n 0 161 m 498.2362 161 l S
+n 0 131 m 498.2362 131 l S
+n 0 101 m 498.2362 101 l S
+n 0 71 m 498.2362 71 l S
+n 0 41 m 498.2362 41 l S
+n 83.03937 0 m 83.03937 210 l S
+n 166.0787 0 m 166.0787 210 l S
+n 249.1181 0 m 249.1181 210 l S
+n 332.1575 0 m 332.1575 210 l S
+n 415.1969 0 m 415.1969 210 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 389.2047 cm
+Q
+q
+1 0 0 1 48.51969 366.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Feature Implementation Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 266.2047 cm
+q
+.862745 .901961 .945098 rg
+n 0 95 498.2362 -19 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Metric) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Total features proposed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (6 grouped feature areas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Features with worksheets created) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (6 grouped feature areas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Features formally demonstrated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Pending screenshot evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Overall implementation rate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Not calculated; final verification evidence pending) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.4 w
+n 0 95 m 498.2362 95 l S
+n 0 0 m 498.2362 0 l S
+n 0 0 m 0 95 l S
+n 498.2362 0 m 498.2362 95 l S
+n 0 76 m 498.2362 76 l S
+n 0 57 m 498.2362 57 l S
+n 0 38 m 498.2362 38 l S
+n 0 19 m 498.2362 19 l S
+n 249.1181 0 m 249.1181 95 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 258.2047 cm
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+8263
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000477 00000 n 
+0000000586 00000 n 
+0000000914 00000 n 
+0000009232 00000 n 
+0000009280 00000 n 
+0000009353 00000 n 
+0000009498 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 10
+  /ID [<03e0270139a83b05a915c0f84928feed><624895d663e76a45c9fcae10edceed5c>]
+>>
+startxref
+9621
+%%EOF

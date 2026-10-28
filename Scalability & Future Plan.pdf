@@ -1,0 +1,609 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 5 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 6 0
+2 0 obj
+<<
+  /Author (\(anonymous\))
+  /CreationDate (D:20261028140604+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20261028140604+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (\(anonymous\))
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 7 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 8 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 775.2047 cm
+q
+BT 1 0 0 1 0 4 Tm 149.4471 0 Td 21 TL /F2 17 Tf 0 0 0 rg (Scalability & Future Plan) Tj T* -149.4471 0 Td ET
+Q
+Q
+q
+1 0 0 1 70.86614 675.2047 cm
+q
+.913725 .933333 .960784 rg
+n 0 88 113.3858 -88 re f*
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 74 Tm (Date) Tj T* ET
+BT 1 0 0 1 119.3858 74 Tm (27 October 2026) Tj T* ET
+BT 1 0 0 1 6 52 Tm (Team ID) Tj T* ET
+BT 1 0 0 1 119.3858 52 Tm (Individual) Tj T* ET
+BT 1 0 0 1 6 30 Tm (Project Name) Tj T* ET
+BT 1 0 0 1 119.3858 30 Tm (Global Olympic Sports Performance Analysis) Tj T* ET
+BT 1 0 0 1 6 8 Tm (Prepared by) Tj T* ET
+BT 1 0 0 1 119.3858 8 Tm (Richa) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 88 m 453.5433 88 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 88 l S
+n 453.5433 0 m 453.5433 88 l S
+n 0 66 m 453.5433 66 l S
+n 0 44 m 453.5433 44 l S
+n 0 22 m 453.5433 22 l S
+n 113.3858 0 m 113.3858 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 665.2047 cm
+Q
+q
+1 0 0 1 48.51969 642.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Current System Limitations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 506.2047 cm
+q
+.862745 .901961 .945098 rg
+n 0 131 498.2362 -19 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (S.No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.5591 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Limitation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 377.6772 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Priority) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 97 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.5591 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (CSV values and historical) Tj T* (coverage need validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Incorrect interpretations if) Tj T* (treated as official without) Tj T* (verification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 377.6772 97 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.5591 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Investment is recorded as) Tj T* (High/Medium/Low tiers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Monetary ROI cannot be) Tj T* (calculated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 377.6772 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.5591 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Dashboard response timings) Tj T* (and user tests are not) Tj T* (recorded) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL -0.040148 Tw (Performance claims cannot yet) Tj T* 0 Tw (be quantified) Tj T* ET
+Q
+Q
+q
+1 0 0 1 377.6772 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.4 w
+n 0 131 m 498.2362 131 l S
+n 0 0 m 498.2362 0 l S
+n 0 0 m 0 131 l S
+n 498.2362 0 m 498.2362 131 l S
+n 0 112 m 498.2362 112 l S
+n 0 71 m 498.2362 71 l S
+n 0 41 m 498.2362 41 l S
+n 124.5591 0 m 124.5591 131 l S
+n 249.1181 0 m 249.1181 131 l S
+n 373.6772 0 m 373.6772 131 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 498.2047 cm
+Q
+q
+1 0 0 1 48.51969 475.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Scalability Plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 331.2047 cm
+q
+.862745 .901961 .945098 rg
+n 0 139 498.2362 -19 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Aspect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Current State) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Proposed Upgrade) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (User load) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Tableau Public sharing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Test dashboard behaviour on target) Tj T* (devices and screens) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Data storage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Four CSV data sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Document source provenance and) Tj T* (maintain versioned source files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Performance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (No measured timings recorded) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Measure initial load and filter response) Tj T* (times) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.0787 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Public sharing may expose workbook) Tj T* (data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336.1575 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Publish only data approved for public) Tj T* (access) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.4 w
+n 0 139 m 498.2362 139 l S
+n 0 0 m 498.2362 0 l S
+n 0 0 m 0 139 l S
+n 498.2362 0 m 498.2362 139 l S
+n 0 120 m 498.2362 120 l S
+n 0 90 m 498.2362 90 l S
+n 0 60 m 498.2362 60 l S
+n 0 30 m 498.2362 30 l S
+n 166.0787 0 m 166.0787 139 l S
+n 332.1575 0 m 332.1575 139 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 323.2047 cm
+Q
+q
+1 0 0 1 48.51969 300.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Future Roadmap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 164.2047 cm
+q
+.862745 .901961 .945098 rg
+n 0 131 498.2362 -19 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Phase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.5591 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Planned Enhancement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Target Timeline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 377.6772 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Expected Impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 97 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Phase 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.5591 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Validate data definitions, nulls,) Tj T* (duplicates and medal totals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 97 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (After initial dashboard review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 377.6772 97 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (More trustworthy findings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Phase 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.5591 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Add year, season, sport and) Tj T* (country filters where) Tj T* (appropriate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (After data validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 377.6772 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (More focused exploration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Phase 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.5591 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Publish Tableau Public) Tj T* (workbook and add GitHub) Tj T* (README/link) Tj T* ET
+Q
+Q
+q
+1 0 0 1 253.1181 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (After final QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 377.6772 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Easier sharing and) Tj T* (reproducibility) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.4 w
+n 0 131 m 498.2362 131 l S
+n 0 0 m 498.2362 0 l S
+n 0 0 m 0 131 l S
+n 498.2362 0 m 498.2362 131 l S
+n 0 112 m 498.2362 112 l S
+n 0 82 m 498.2362 82 l S
+n 0 41 m 498.2362 41 l S
+n 124.5591 0 m 124.5591 131 l S
+n 249.1181 0 m 249.1181 131 l S
+n 373.6772 0 m 373.6772 131 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 156.2047 cm
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+8130
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000477 00000 n 
+0000000586 00000 n 
+0000000914 00000 n 
+0000009099 00000 n 
+0000009147 00000 n 
+0000009220 00000 n 
+0000009365 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 10
+  /ID [<7fd17524dd217c9de4493393a512f93d><624895d663e76a45c9fcae10edceed5c>]
+>>
+startxref
+9488
+%%EOF
